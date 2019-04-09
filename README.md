@@ -1,4 +1,4 @@
-# Cluster Analysis on a Weather Dataset using K-Means Clustering Algorithm Using Spark Execution Engine over a Databricks Cluster
+# Cluster Analysis on a Weather Dataset to identify different Weather patterns using K-Means Clustering Algorithm Using Spark Execution Engine over a Databricks Cluster
 
  I have performed cluster analysis on the ​minute-weather.csv ​ dataset using
 the k-means algorithm. This dataset contains weather measurements such as
@@ -14,3 +14,5 @@ determine a value for k, the number of clusters in k-means
 4. Create parallel coordinates plots to analyze cluster centers
 
 The dataset(minute_weather.csv) can be downloaded from the link https://drive.google.com/file/d/1HrOMag0s4FNzW9RcVWO3iHCGhUufnJvd/view?usp=sharing 
+
+The notebook can also be found at its published link https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/6954848893521581/866659986550816/2558959897262863/latest.html
